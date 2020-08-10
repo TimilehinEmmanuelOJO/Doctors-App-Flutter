@@ -1,4 +1,4 @@
-# doc_app
+# Doctors App by Manoj Rajput
 
 A new Flutter application.
 
